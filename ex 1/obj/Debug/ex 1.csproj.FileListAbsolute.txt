@@ -1,0 +1,6 @@
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\bin\Debug\ex 1.exe.config
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\obj\Debug\ex 1.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\bin\Debug\ex 1.exe
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\bin\Debug\ex 1.pdb
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\obj\Debug\ex 1.exe
+C:\Users\fabio\Desktop\UNI\materiale corsi\C#\ex 1\ex 1\obj\Debug\ex 1.pdb
